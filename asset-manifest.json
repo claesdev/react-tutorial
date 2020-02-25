@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/claesdev/react-tutorial/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/claesdev/react-tutorial/static/js/main.6212661f.chunk.js",
+    "main.js.map": "/claesdev/react-tutorial/static/js/main.6212661f.chunk.js.map",
+    "runtime-main.js": "/claesdev/react-tutorial/static/js/runtime-main.a5f4d048.js",
+    "runtime-main.js.map": "/claesdev/react-tutorial/static/js/runtime-main.a5f4d048.js.map",
+    "static/js/2.1ceb358c.chunk.js": "/claesdev/react-tutorial/static/js/2.1ceb358c.chunk.js",
+    "static/js/2.1ceb358c.chunk.js.map": "/claesdev/react-tutorial/static/js/2.1ceb358c.chunk.js.map",
+    "index.html": "/claesdev/react-tutorial/index.html",
+    "precache-manifest.78fcf2c98b708c4dad0800da8772c34d.js": "/claesdev/react-tutorial/precache-manifest.78fcf2c98b708c4dad0800da8772c34d.js",
+    "service-worker.js": "/claesdev/react-tutorial/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/claesdev/react-tutorial/static/css/main.71bd5e9e.chunk.css.map",
+    "static/js/2.1ceb358c.chunk.js.LICENSE.txt": "/claesdev/react-tutorial/static/js/2.1ceb358c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f4d048.js",
+    "static/js/2.1ceb358c.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.6212661f.chunk.js"
+  ]
+}
